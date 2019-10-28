@@ -1,0 +1,6 @@
+C:\Users\USER\Downloads\TestBatchApp\TestBatchApp\obj\Debug\TestBatchApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\TestBatchApp\TestBatchApp\bin\Debug\TestBatchApp.exe.config
+C:\Users\USER\Downloads\TestBatchApp\TestBatchApp\bin\Debug\TestBatchApp.exe
+C:\Users\USER\Downloads\TestBatchApp\TestBatchApp\bin\Debug\TestBatchApp.pdb
+C:\Users\USER\Downloads\TestBatchApp\TestBatchApp\obj\Debug\TestBatchApp.exe
+C:\Users\USER\Downloads\TestBatchApp\TestBatchApp\obj\Debug\TestBatchApp.pdb
